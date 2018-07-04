@@ -1,1 +1,1 @@
-worker: node bot.js GOB Administrator
+worker: node bot.js 
